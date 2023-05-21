@@ -17,7 +17,7 @@ This my Future Ready Talent Internship Project.In my website, we have different 
 ## WHY CHOOSE US
 ![Screenshot 2023-05-22 005911](https://github.com/Knv126/pro/assets/114814894/70df7561-f549-4784-ba6c-76d1e311c3d5)
 
-##SUBSCRIBE
+## SUBSCRIBE
 ![Screenshot 2023-05-22 010235](https://github.com/Knv126/pro/assets/114814894/aa618d6a-280a-479b-b344-37acdf1b682f)
 
 
