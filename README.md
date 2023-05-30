@@ -1,6 +1,7 @@
 # pro
 This my Future Ready Talent Internship Project.In my website, we have different courses in different fields for children which help them to build their career in certain fields with the valuable certificates on completion of courses.
 # azure link https://calm-pond-0d0dec810.3.azurestaticapps.net
+# storage end point link https://knvstore12fb95.z19.web.core.windows.net/
 
 ## HOME PAGE
 ![Screenshot 2023-05-22 005659](https://github.com/Knv126/pro/assets/114814894/61ef44fe-dcd7-4ebb-8108-15db5465fdea)
