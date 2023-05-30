@@ -21,8 +21,12 @@ This my Future Ready Talent Internship Project.In my website, we have different 
 ## SUBSCRIBE
 ![Screenshot 2023-05-22 010235](https://github.com/Knv126/pro/assets/114814894/aa618d6a-280a-479b-b344-37acdf1b682f)
 
+## ChatBot
+![Screenshot 2023-05-31 043358](https://github.com/Knv126/pro/assets/114814894/cd8a7f26-751e-41d7-89ab-69e7d86e0467)
 
-## connecting storage account 
+
+
+# connecting storage account 
 
 # step 1 create new storage account
 ![Screenshot 2023-05-31 034758](https://github.com/Knv126/pro/assets/114814894/d2be4e26-6b1c-4ffd-a881-7c9f56f9b21f)
