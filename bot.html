@@ -1,0 +1,74 @@
+<!doctype html><html><head><title>help</title></head>
+
+<script type="text/javascript"
+
+src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+</head>
+
+<body>
+
+Query: <input type="text" id="QueryText">
+
+<br>
+
+Response: <span id="response"></span>
+
+<script type="text/javascript">
+
+"use strict";
+
+jQuery(function () {
+    $('querytext').on('keydown', function(e){
+       if (e.which == 13) {
+        QueryTextEnter();
+       }
+
+    });
+
+});
+
+function QueryTextEnter() {
+
+var queryText = jQuery("#QueryText").val();
+
+$("#log").html(queryText);
+
+}
+var call = jQuery.ajax(
+
+
+
+
+
+
+
+
+
+headers= {
+
+Accept: "application/json", "Content-Type": "application/json"
+
+});
+
+call.done(function (data, textStatus, jqxhr) { console.log(data);
+
+var intent= data.topscoringintent.intent;
+
+var faqGet = GetFAQ(intent);
+
+faqGet.done(function (response) {
+
+$("#log").html(response);
+
+});
+
+});
+
+call.fail(function (jqXHR, textStatus, errorThrown) { alert("Fail");
+});
+
+
+</script>
+</body></html>
+
